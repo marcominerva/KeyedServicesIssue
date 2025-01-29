@@ -4,4 +4,6 @@ If we use the `FromKeyedServices` attribute in a class library and the keyed reg
 
 This repo contains some examples that showcase all the different scenarios. Every endpoint comes with a description of the particular behavior it refers to.
 
+The issue has been solved in .NET 8.0.11.
+
 ![image](https://github.com/marcominerva/KeyedServicesIssue/assets/3522534/452daf1e-ac28-4a8d-8fd9-1d688bbd4da5)
